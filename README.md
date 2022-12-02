@@ -5,11 +5,11 @@ Hi! And welcome to my make-shift protfolio/info page/collection of images for al
 
 <table align="center">
   <tr>
-    <td width="200">
-      <img src="https://github.com/lucadavies/Technician/blob/main/Images/Fringe-4.jpg" alt="Underbelly's Circus on the Meadow venue, Lafayette presenting Circus Abyssinia: Tulu" width="*"/>
+    <td width="300">
+      <img src="https://github.com/lucadavies/Technician/blob/main/Images/Fringe-4.jpg" alt="Luca experimenting with a Grand MA console." width="*"/>
     </td>
-    <td width="200">
-      <img src="https://github.com/lucadavies/Technician/blob/main/Images/Trains-3.jpg" alt="SLX Trains project: Severn Valley Railway - Steam in Lights" width="*"/>
+    <td width="300">
+      <img src="https://github.com/lucadavies/Technician/blob/main/Images/Trains-3.jpg" alt="Luca rigging a lantern to the underside of a railway carriage." width="*"/>
     </td>
   </tr>
 </table>
