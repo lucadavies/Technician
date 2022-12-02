@@ -38,11 +38,11 @@ After completing my degree, I first entered industry as a software engineer, con
 
 <table>
   <tr>
-    <td width="40%" >
+    <td width="2em">
       <img src="https://github.com/lucadavies/Technician/blob/main/Images/Fringe-2.jpg" alt="Underbelly's Circus on the Meadow venue, Lafayette presenting Circus Abyssinia: Tulu" width="*"/>
       <p align="center"><i>Underbelly's Circus on the Meadow venue, Lafayette presenting Circus Abyssinia: Tulu</i></p>
     </td>
-    <td width="40%">
+    <td>
       <img src="https://github.com/lucadavies/Technician/blob/main/Images/Trains-1.jpg" alt="SLX Trains project: Severn Valley Railway - Steam in Lights" width="*"/>
       <p align="center"><i>SLX Trains project: Severn Valley Railway - Steam in Lights</i></p>
     </td>
