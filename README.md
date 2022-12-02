@@ -26,8 +26,25 @@ After school I earned a place at Lancaster University to study Computer Science.
       <p align="center"><i>Fylde College Extrav setup, a small end-of-year festival. A similiar setup is used for the 7 other undergraduate colleges at Lancaster University</i></p>
     </td>
     <td width="40%" >
-      <img src="https://github.com/lucadavies/Technician/blob/main/Images/Nuff.jpg" alt="School theatre rake" width="*"/>
+      <img src="https://github.com/lucadavies/Technician/blob/main/Images/Nuff.jpg" alt="Nuffield theatre, venue for LUTG's large shows" width="*"/>
       <p align="center"><i>School Theatre Stage</i></p>
+    </td>
+  </tr>
+</table>
+
+At University, more LUTG shows used a small vairety of generic and intelligent fresnels and profiles, occasionally hiring LED parcans and/or moving lights for larger shows. Control was most often ETC Nomad or Element. Meanwhile, the Events Crew used the same LED parcans/moving lights, controlled by ETC Ion and Avolites Quartz or Tiger Touch, with sound operated on Roland or Allen & Heath digital mixers.
+
+After completing my degree, I first entered industry as a software engineer, continuing voluntary theatre work on the side with the Pengiun Club who assist a number of  amateur dramatics groups in Cambridge, and at the Cambridge Arts Theatre. After a year of this, and ending up rather unhappy, I quit software, and jumped into working backstage fulltime. I jumped straight into working the full Edinburgh Fringe Festival 2022 as venue technician for Underbelly, and following that I went freelance to take work where and when I can. Since doing so I have worked with SLX for their Trains projects for this year, Royal Welsh College of Music and Drama, and Truro School.
+
+<table>
+  <tr>
+    <td width="40%" >
+      <img src="https://github.com/lucadavies/Technician/blob/main/Images/Fringe-2.jpg" alt="Underbelly's Circus on the Meadow venue, Lafayette presenting Circus Abyssinia: Tulu" width="*"/>
+      <p align="center"><i>Underbelly's Circus on the Meadow venue, Lafayette presenting Circus Abyssinia: Tulu</i></p>
+    </td>
+    <td width="40%">
+      <img src="https://github.com/lucadavies/Technician/blob/main/Images/Trains-1.jpg" alt="SLX Trains project: Severn Valley Railway - Steam in Lights" width="*"/>
+      <p align="center"><i>SLX Trains project: Severn Valley Railway - Steam in Lights</i></p>
     </td>
   </tr>
 </table>
