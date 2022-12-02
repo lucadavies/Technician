@@ -17,4 +17,17 @@ At school, we ran a mostly fixed rig of fresnels and profiles with colour in-fil
   </tr>
 </table>
 
-After school I earned a place at Lancaster University to study Computer Science. Alongside my study, I took my interest in the technical side of theatre and events further by joining Lancaster University Theatre Group (LUTG) and gaining employment with the Students' Union as a member of their Events Crew. As a mebmer of LUTG, I staged ten shows as a member of the production's core team and aiding 14 further shows directly as get-in/get-out crew and technical assitance. These productions ranged from full-scale 'traditional' musicals down to experimental small-cast shows utilising unconventional venues and new technology. With the Students' Union, work was generally more events focussed, often involving marquee and gazebo setup,
+After school I earned a place at Lancaster University to study Computer Science. Alongside my study, I took my interest in the technical side of theatre and events further by joining Lancaster University Theatre Group (LUTG) and gaining employment with the Students' Union as a member of their Events Crew. As a mebmer of LUTG, I staged ten shows as a member of the production's core team and aiding 14 further shows directly as get-in/get-out crew and technical assitance. These productions ranged from full-scale 'traditional' musicals down to experimental small-cast shows utilising unconventional venues and new technology. With the Students' Union, work was generally more events focussed, often involving marquee and gazebo setup, ranging from corporate events to small festival setups.
+
+<table>
+  <tr>
+    <td width="40%">
+      <img src="https://github.com/lucadavies/Technician/blob/main/Images/SUCrew-1.JPG" alt="Fylde College Extrav" width="*"/>
+      <p align="center"><i>Fylde College Extrav setup, a small end-of-year festival. A similiar setup is used for the 7 other undergraduate colleges at Lancaster University</i></p>
+    </td>
+    <td width="40%" >
+      <img src="https://github.com/lucadavies/Technician/blob/main/Images/Nuff.JPG" alt="School theatre rake" width="*"/>
+      <p align="center"><i>School Theatre Stage</i></p>
+    </td>
+  </tr>
+</table>
