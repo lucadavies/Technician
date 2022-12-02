@@ -7,11 +7,11 @@ At school, we ran a mostly fixed rig of fresnels and profiles with colour in-fil
 <table>
   <tr>
     <td width="40%">
-      <img src="https://github.com/lucadavies/Technician/blob/main/Images/Neuadd-1.JPG" alt="School theatre rake" width="*"/>
+      <img src="https://github.com/lucadavies/Technician/blob/main/Images/Neuadd-1.jpg" alt="School theatre rake" width="*"/>
       <p align="center"><i>School Theatre Rake</i></p>
     </td>
     <td width="40%" >
-      <img src="https://github.com/lucadavies/Technician/blob/main/Images/Neuadd-2.JPG" alt="School theatre rake" width="*"/>
+      <img src="https://github.com/lucadavies/Technician/blob/main/Images/Neuadd-2.jpg" alt="School theatre rake" width="*"/>
       <p align="center"><i>School Theatre Stage</i></p>
     </td>
   </tr>
@@ -22,11 +22,11 @@ After school I earned a place at Lancaster University to study Computer Science.
 <table>
   <tr>
     <td width="40%">
-      <img src="https://github.com/lucadavies/Technician/blob/main/Images/SUCrew-1.JPG" alt="Fylde College Extrav" width="*"/>
+      <img src="https://github.com/lucadavies/Technician/blob/main/Images/SUCrew-1.jpg" alt="Fylde College Extrav" width="*"/>
       <p align="center"><i>Fylde College Extrav setup, a small end-of-year festival. A similiar setup is used for the 7 other undergraduate colleges at Lancaster University</i></p>
     </td>
     <td width="40%" >
-      <img src="https://github.com/lucadavies/Technician/blob/main/Images/Nuff.JPG" alt="School theatre rake" width="*"/>
+      <img src="https://github.com/lucadavies/Technician/blob/main/Images/Nuff.jpg" alt="School theatre rake" width="*"/>
       <p align="center"><i>School Theatre Stage</i></p>
     </td>
   </tr>
