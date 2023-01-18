@@ -54,15 +54,21 @@ I am an enthusiastic and dedicated technician with nearly ten years' of experien
             <ul>
               <li>Behringer Xenyx series</li>
               <li>Allen & Heath ZED series</li>
+              <li>Allen & Heath Qu series</li>
               <li>Soundcraft EPM series</li>
             </ul>
           </li>
+          <li>Competent creating and running QLab showfiles</li>
         <ul>
       </td>
       <td>
         <ul>
-          <li>Rigging of conventional and intelligent lighting</li>
+          <li>Setup, rigging, and cabling of conventional and intelligent lighting</li>
+          <li>Setup, rigging, and cabling of sound systems</li>
           <li>Familiarity with counterweight fly systems</li>
+          <li>Experience performing onstage set changes</li>
+          <li>Experience on-book, calling shows</li>
+          <li>Strong sense of general stagecraft and backstage etiquette</li>
         </ul>
       </td>
     </tr>
