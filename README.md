@@ -66,7 +66,7 @@ I am an enthusiastic and dedicated technician with nearly ten years' of experien
           <li>Setup, rigging, and cabling of conventional and intelligent lighting</li>
           <li>Setup, rigging, and cabling of sound systems</li>
           <li>Familiarity with counterweight fly systems</li>
-          <li>Experience performing onstage set changes</li>
+          <li>Experience carrying out onstage set changes</li>
           <li>Experience on-book, calling shows</li>
           <li>Strong sense of general stagecraft and backstage etiquette</li>
         </ul>
