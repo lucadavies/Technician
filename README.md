@@ -54,7 +54,6 @@ I am an enthusiastic and dedicated technician with nearly ten years' of experien
             <ul>
               <li>Behringer Xenyx series</li>
               <li>Allen & Heath ZED series</li>
-
               <li>Soundcraft EPM series</li>
             </ul>
           </li>
