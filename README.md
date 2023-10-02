@@ -45,6 +45,7 @@ I am an enthusiastic and dedicated technician with nearly ten years' of experien
         <ul>
           <li>Digital
             <ul>
+              <li>Yamaha QL/CL series</li>
               <li>Midas/Behringer M32/X32 series</li>
               <li>Allen & Heath Qu series</li>
               <li>Roland V-Mixer series</li>
