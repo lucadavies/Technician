@@ -10,6 +10,12 @@ I generally have a lighting bias, as a competent programmer, but am increasingly
 Any show or event I’m involved with, I will do everything in my power to ensure that it runs smoothly and is staged as well as possible!
 
 Former software engineer that swapped career paths for my love of technical theatre and so far haven't looked far back, instead doing what I can bring my programming and computing skills to the stage!
+
+As above, I have an LX bias, skilled with Eos consoles and competent with Avolites and Zero88 consoles. Confident setting up most analogue and digital sound desks, and able to mix a small numbers of radio mics and SFX for musicals. Also familiar with programming and operating QLab.
+
+I'm currently working as a Lighting & Sound Technician at the Everyman Theatre in Cheltenham, supporting the day-to-day operations of a regional receiving theatre.
+
+Not actively looking for work, but always open to hearing about available opportunities!
 <table>
   <th>
         Lighting
