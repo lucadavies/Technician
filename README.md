@@ -4,7 +4,12 @@ Hi! And welcome to my make-shift portfolio/info page/collection of images for al
 - [Photos](https://github.com/lucadavies/Technician/wiki/Photos) - Click here to see a collection of photos from my work
 - [Show Credits](https://github.com/lucadavies/Technician/wiki/Show-Credits) - Click here to see a list of my show and event credits
 
-I am an enthusiastic and dedicated technician with nearly ten years' of experience in theatre and events. I am comfortable working alone, as part of a larger team, or in leadership or teaching roles where appropriate. I am highly committed to good organisation and professionalism throughout my work, with a focus on delivering the show or project to the highest standard possible. I am also keen to learn and develop my skillset at all turns, with a particular penchant for learning new lighting control systems.
+Multiskilled technician that has learned organically through active experience over the last decade: throughout school, university, and more recently in a number of freelance jobs, and now as a fulltime in-house technician at a regional receiving theatre. I am enthusiastic about my work, take pride in my professionalism and organisation, and I am forever looking out for opportunities to learn and grow my skillset.
+
+I generally have a lighting bias, as a competent programmer, but am increasingly confident mixing sound for all kinds of theatre and events. I’m perfectly happy working get-ins and get-outs, moving equipment where it needs to be, getting it assembled, and setup to be show-ready.
+Any show or event I’m involved with, I will do everything in my power to ensure that it runs smoothly and is staged as well as possible!
+
+Former software engineer that swapped career paths for my love of technical theatre and so far haven't looked far back, instead doing what I can bring my programming and computing skills to the stage!
 <table>
   <th>
         Lighting
