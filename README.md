@@ -9,7 +9,7 @@ Multiskilled technician that has learned organically through active experience o
 I generally have a lighting bias, as a competent programmer, but am increasingly confident mixing sound for all kinds of theatre and events. I’m perfectly happy working get-ins and get-outs, moving equipment where it needs to be, getting it assembled, and setup to be show-ready.
 Any show or event I’m involved with, I will do everything in my power to ensure that it runs smoothly and is staged as well as possible!
 
-Former software engineer that swapped career paths for my love of technical theatre and so far haven't looked far back, instead doing what I can bring my programming and computing skills to the stage!
+Former software engineer that swapped career paths for my love of technical theatre for a time before finding a way to marry the two as a software developer now for Avolites. So you can find me programming lights, or programming _for_ lights!
 
 As above, I have an LX bias, skilled with Eos consoles and competent with Avolites and Zero88 consoles. Confident setting up most analogue and digital sound desks, and able to mix a small numbers of radio mics and SFX for musicals. Also familiar with programming and operating QLab.
 
@@ -46,8 +46,7 @@ Not actively looking for work, but always open to hearing about available opport
           </li>
           <li>Avolites
             <ul>
-              <li>Tiger Touch</li>
-              <li>Quartz</li>
+              <li>Titan family</li>
             </ul>
           </li>
         </ul>
