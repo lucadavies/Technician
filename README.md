@@ -76,11 +76,14 @@ I am an enthusiastic and dedicated technician with nearly ten years' of experien
 
 <table align="center">
   <tr>
-    <td width="300">
+    <td width="280">
       <img src="https://github.com/lucadavies/Technician/blob/main/Images/Fringe-4.jpg" alt="Luca experimenting with a Grand MA console." width="*"/>
     </td>
-    <td width="300">
+    <td width="280">
       <img src="https://github.com/lucadavies/Technician/blob/main/Images/Trains-3.jpg" alt="Luca rigging a lantern to the underside of a railway carriage." width="*"/>
+    </td>
+    <td width="280">
+      <img src="https://github.com/lucadavies/Technician/blob/main/Images/ETC.jpg" alt="Luca standing on the Everyman Theatre's stage with a full theatre lighting rig glowing." width="*"/>
     </td>
   </tr>
 </table>
